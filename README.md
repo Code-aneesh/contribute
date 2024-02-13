@@ -8,3 +8,5 @@ Pushed class notes
 
 Read about a new algorithm
 
+Refactored some code
+
