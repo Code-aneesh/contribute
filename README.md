@@ -10,3 +10,5 @@ Read about a new algorithm
 
 Refactored some code
 
+Fixed a bug
+
