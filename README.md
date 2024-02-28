@@ -12,3 +12,5 @@ Refactored some code
 
 Fixed a bug
 
+Updated README
+
