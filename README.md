@@ -26,3 +26,5 @@ Pushed class notes
 
 Worked on a project feature
 
+Refactored some code
+
