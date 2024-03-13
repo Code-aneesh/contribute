@@ -30,3 +30,5 @@ Refactored some code
 
 Refactored some code
 
+Read about a new algorithm
+
