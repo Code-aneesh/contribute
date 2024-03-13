@@ -32,3 +32,5 @@ Refactored some code
 
 Read about a new algorithm
 
+Updated README
+
