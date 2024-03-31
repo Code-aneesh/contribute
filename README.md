@@ -42,3 +42,5 @@ Practiced coding questions
 
 Solved a DSA problem
 
+Worked on a project feature
+
