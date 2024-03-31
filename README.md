@@ -44,3 +44,5 @@ Solved a DSA problem
 
 Worked on a project feature
 
+Read about a new algorithm
+
