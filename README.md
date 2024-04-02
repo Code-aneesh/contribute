@@ -46,3 +46,5 @@ Worked on a project feature
 
 Read about a new algorithm
 
+Pushed class notes
+
