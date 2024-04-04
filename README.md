@@ -54,3 +54,5 @@ Solved a DSA problem
 
 Fixed a bug
 
+Practiced coding questions
+
