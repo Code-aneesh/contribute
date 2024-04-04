@@ -52,3 +52,5 @@ Practiced coding questions
 
 Solved a DSA problem
 
+Fixed a bug
+
