@@ -58,3 +58,5 @@ Practiced coding questions
 
 Practiced coding questions
 
+Studied a new framework
+
