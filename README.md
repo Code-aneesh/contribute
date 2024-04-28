@@ -62,3 +62,5 @@ Studied a new framework
 
 Studied a new framework
 
+Updated README
+
