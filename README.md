@@ -70,3 +70,5 @@ Refactored some code
 
 Solved a DSA problem
 
+Practiced coding questions
+
