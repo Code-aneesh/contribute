@@ -78,3 +78,5 @@ Solved a DSA problem
 
 Practiced coding questions
 
+Read about a new algorithm
+
