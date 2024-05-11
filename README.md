@@ -82,3 +82,5 @@ Read about a new algorithm
 
 Practiced coding questions
 
+Fixed a bug
+
