@@ -92,3 +92,5 @@ Worked on an assignment
 
 Practiced coding questions
 
+Updated README
+
