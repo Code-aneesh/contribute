@@ -90,3 +90,5 @@ Worked on a project feature
 
 Worked on an assignment
 
+Practiced coding questions
+
