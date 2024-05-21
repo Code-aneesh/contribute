@@ -98,3 +98,5 @@ Worked on an assignment
 
 Studied a new framework
 
+Refactored some code
+
