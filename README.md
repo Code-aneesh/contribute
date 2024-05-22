@@ -96,3 +96,5 @@ Updated README
 
 Worked on an assignment
 
+Studied a new framework
+
