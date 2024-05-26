@@ -100,3 +100,5 @@ Studied a new framework
 
 Refactored some code
 
+Worked on an assignment
+
