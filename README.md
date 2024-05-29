@@ -104,3 +104,5 @@ Worked on an assignment
 
 Updated README
 
+Studied a new framework
+
