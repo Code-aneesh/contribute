@@ -108,3 +108,5 @@ Studied a new framework
 
 Fixed a bug
 
+Read about a new algorithm
+
