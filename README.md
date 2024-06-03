@@ -110,3 +110,5 @@ Fixed a bug
 
 Read about a new algorithm
 
+Read about a new algorithm
+
