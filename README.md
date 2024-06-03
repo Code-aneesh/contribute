@@ -106,3 +106,5 @@ Updated README
 
 Studied a new framework
 
+Fixed a bug
+
