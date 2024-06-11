@@ -114,3 +114,5 @@ Read about a new algorithm
 
 Practiced coding questions
 
+Refactored some code
+
