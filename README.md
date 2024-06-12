@@ -120,3 +120,5 @@ Worked on an assignment
 
 Worked on a project feature
 
+Solved a DSA problem
+
