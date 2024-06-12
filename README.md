@@ -118,3 +118,5 @@ Refactored some code
 
 Worked on an assignment
 
+Worked on a project feature
+
