@@ -122,3 +122,5 @@ Worked on a project feature
 
 Solved a DSA problem
 
+Refactored some code
+
