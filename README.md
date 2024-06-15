@@ -124,3 +124,5 @@ Solved a DSA problem
 
 Refactored some code
 
+Studied a new framework
+
