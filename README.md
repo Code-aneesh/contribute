@@ -126,3 +126,5 @@ Refactored some code
 
 Studied a new framework
 
+Practiced coding questions
+
