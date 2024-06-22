@@ -128,3 +128,5 @@ Studied a new framework
 
 Practiced coding questions
 
+Updated README
+
