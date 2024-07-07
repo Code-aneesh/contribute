@@ -134,3 +134,5 @@ Worked on a project feature
 
 Studied a new framework
 
+Solved a DSA problem
+
