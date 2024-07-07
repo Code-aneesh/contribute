@@ -136,3 +136,5 @@ Studied a new framework
 
 Solved a DSA problem
 
+Practiced coding questions
+
