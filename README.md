@@ -140,3 +140,5 @@ Practiced coding questions
 
 Pushed class notes
 
+Studied a new framework
+
