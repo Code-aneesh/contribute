@@ -148,3 +148,5 @@ Studied a new framework
 
 Studied a new framework
 
+Worked on an assignment
+
