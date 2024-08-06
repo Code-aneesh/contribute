@@ -150,3 +150,5 @@ Studied a new framework
 
 Worked on an assignment
 
+Refactored some code
+
