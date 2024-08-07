@@ -152,3 +152,5 @@ Worked on an assignment
 
 Refactored some code
 
+Practiced coding questions
+
