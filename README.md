@@ -154,3 +154,5 @@ Refactored some code
 
 Practiced coding questions
 
+Pushed class notes
+
