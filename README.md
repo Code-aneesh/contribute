@@ -158,3 +158,5 @@ Pushed class notes
 
 Fixed a bug
 
+Updated README
+
