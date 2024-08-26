@@ -160,3 +160,5 @@ Fixed a bug
 
 Updated README
 
+Read about a new algorithm
+
