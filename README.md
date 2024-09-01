@@ -166,3 +166,5 @@ Pushed class notes
 
 Studied a new framework
 
+Refactored some code
+
