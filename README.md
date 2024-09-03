@@ -168,3 +168,5 @@ Studied a new framework
 
 Refactored some code
 
+Worked on a project feature
+
