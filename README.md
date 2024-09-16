@@ -172,3 +172,5 @@ Worked on a project feature
 
 Fixed a bug
 
+Updated README
+
