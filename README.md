@@ -178,3 +178,5 @@ Updated README
 
 Studied a new framework
 
+Practiced coding questions
+
