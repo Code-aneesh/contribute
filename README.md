@@ -182,3 +182,5 @@ Practiced coding questions
 
 Updated README
 
+Pushed class notes
+
