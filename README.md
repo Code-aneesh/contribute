@@ -186,3 +186,5 @@ Pushed class notes
 
 Updated README
 
+Read about a new algorithm
+
