@@ -192,3 +192,5 @@ Fixed a bug
 
 Worked on an assignment
 
+Practiced coding questions
+
