@@ -196,3 +196,5 @@ Practiced coding questions
 
 Refactored some code
 
+Fixed a bug
+
