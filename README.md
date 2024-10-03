@@ -202,3 +202,5 @@ Updated README
 
 Worked on an assignment
 
+Read about a new algorithm
+
