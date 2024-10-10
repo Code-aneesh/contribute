@@ -204,3 +204,5 @@ Worked on an assignment
 
 Read about a new algorithm
 
+Refactored some code
+
