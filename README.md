@@ -220,3 +220,5 @@ Solved a DSA problem
 
 Studied a new framework
 
+Practiced coding questions
+
