@@ -222,3 +222,5 @@ Studied a new framework
 
 Practiced coding questions
 
+Refactored some code
+
