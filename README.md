@@ -224,3 +224,5 @@ Practiced coding questions
 
 Refactored some code
 
+Pushed class notes
+
