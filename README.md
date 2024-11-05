@@ -228,3 +228,5 @@ Pushed class notes
 
 Worked on a project feature
 
+Updated README
+
