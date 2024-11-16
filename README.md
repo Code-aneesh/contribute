@@ -232,3 +232,5 @@ Updated README
 
 Solved a DSA problem
 
+Practiced coding questions
+
