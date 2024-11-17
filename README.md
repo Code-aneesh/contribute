@@ -230,3 +230,5 @@ Worked on a project feature
 
 Updated README
 
+Solved a DSA problem
+
