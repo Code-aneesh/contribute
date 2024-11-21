@@ -236,3 +236,5 @@ Practiced coding questions
 
 Read about a new algorithm
 
+Pushed class notes
+
