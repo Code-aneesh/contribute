@@ -244,3 +244,5 @@ Worked on a project feature
 
 Practiced coding questions
 
+Read about a new algorithm
+
