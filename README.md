@@ -246,3 +246,5 @@ Practiced coding questions
 
 Read about a new algorithm
 
+Updated README
+
