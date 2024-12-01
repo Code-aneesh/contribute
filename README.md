@@ -250,3 +250,5 @@ Updated README
 
 Worked on an assignment
 
+Practiced coding questions
+
