@@ -252,3 +252,5 @@ Worked on an assignment
 
 Practiced coding questions
 
+Solved a DSA problem
+
