@@ -256,3 +256,5 @@ Solved a DSA problem
 
 Worked on a project feature
 
+Pushed class notes
+
