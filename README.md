@@ -260,3 +260,5 @@ Pushed class notes
 
 Worked on a project feature
 
+Solved a DSA problem
+
