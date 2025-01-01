@@ -264,3 +264,5 @@ Solved a DSA problem
 
 Worked on an assignment
 
+Pushed class notes
+
