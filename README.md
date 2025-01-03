@@ -266,3 +266,5 @@ Worked on an assignment
 
 Pushed class notes
 
+Read about a new algorithm
+
