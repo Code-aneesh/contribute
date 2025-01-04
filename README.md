@@ -272,3 +272,5 @@ Pushed class notes
 
 Read about a new algorithm
 
+Read about a new algorithm
+
