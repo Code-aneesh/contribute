@@ -276,3 +276,5 @@ Read about a new algorithm
 
 Studied a new framework
 
+Practiced coding questions
+
