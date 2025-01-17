@@ -278,3 +278,5 @@ Studied a new framework
 
 Practiced coding questions
 
+Pushed class notes
+
