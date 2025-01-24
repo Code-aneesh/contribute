@@ -282,3 +282,5 @@ Pushed class notes
 
 Solved a DSA problem
 
+Fixed a bug
+
