@@ -286,3 +286,5 @@ Fixed a bug
 
 Practiced coding questions
 
+Read about a new algorithm
+
